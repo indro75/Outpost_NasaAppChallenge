@@ -28,7 +28,7 @@ export default function Landing() {
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             <button
-              onClick={() => nav('/setup')}
+                 onClick={() => nav('/checklist')}
               className="px-6 py-3 rounded-xl bg-cyan-400 text-space-900 font-bold hover:bg-cyan-300 shadow-glow transition"
             >
               Start Your Mission
