@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "id": "epic-manual-1",
+      "date": "2026-10-10",
+      "image": "fixtures/img/epic_1.jpg",
+      "source_url": "https://epic.gsfc.nasa.gov/",
+      "dataset_id": "NASA EPIC (DSCOVR) — committed fixture"
+    },
+    {
+      "id": "epic-manual-2",
+      "date": "2026-08-01",
+      "image": "fixtures/img/epic_2.jpg",
+      "source_url": "https://epic.gsfc.nasa.gov/",
+      "dataset_id": "NASA EPIC (DSCOVR) — committed fixture"
+    },
+    {
+      "id": "epic-manual-3",
+      "date": "2026-03-05",
+      "image": "fixtures/img/epic_3.jpg",
+      "source_url": "https://epic.gsfc.nasa.gov/",
+      "dataset_id": "NASA EPIC (DSCOVR) — committed fixture"
+    }
+  ]
+}
