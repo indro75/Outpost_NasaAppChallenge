@@ -9,7 +9,7 @@ budget, pass a timed pre-launch checklist, identify real features in NASA EPIC E
 imagery, and then manage a full lunar/Martian outpost — oxygen, water, food, power,
 dust storms and all.
 
-🔗 **Live demo:** [YOUR VERCEL URL]
+🔗 **Live demo:** [https://outpost-nasa-app-challenge.vercel.app/]
 🎬 **240-second judging video:** [VIDEO LINK]
 🎬 **30-second global video:** [VIDEO LINK]
 
