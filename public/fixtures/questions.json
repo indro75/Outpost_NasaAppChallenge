@@ -1,0 +1,66 @@
+{
+  "facts": [
+    {
+      "q": "From where does the EPIC camera photograph the entire sunlit face of Earth?",
+      "options": [
+        "Low Earth orbit",
+        "The L1 Lagrange point, about 1.5 million km from Earth",
+        "Geostationary orbit",
+        "The Moon's orbit"
+      ],
+      "answer": 1,
+      "source_url": "https://epic.gsfc.nasa.gov/",
+      "dataset_id": "NASA EPIC / DSCOVR mission page"
+    },
+    {
+      "q": "Which NASA experiment produced oxygen from the Martian atmosphere?",
+      "options": [
+        "MOXIE on the Perseverance rover",
+        "The Curiosity weather station",
+        "The InSight heat probe",
+        "The Hubble telescope"
+      ],
+      "answer": 0,
+      "source_url": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+      "dataset_id": "NASA Mars 2020 Perseverance / MOXIE"
+    },
+    {
+      "q": "Why did the InSight lander's mission end in 2022?",
+      "options": [
+        "Dust on its solar panels starved it of power",
+        "It drove off a cliff",
+        "Its radio failed at launch",
+        "It fell into a lava tube"
+      ],
+      "answer": 0,
+      "source_url": "https://science.nasa.gov/mission/insight/",
+      "dataset_id": "NASA InSight Mission"
+    },
+    {
+      "q": "Roughly how much of its water does the ISS recover and recycle?",
+      "options": ["About 10%", "About 50%", "About 93-98%", "None of it"],
+      "answer": 2,
+      "source_url": "https://www.nasa.gov/international-space-station/",
+      "dataset_id": "NASA International Space Station / ECLSS"
+    },
+    {
+      "q": "How long does sunlight take to reach Earth?",
+      "options": ["8 seconds", "8 minutes", "8 hours", "8 days"],
+      "answer": 1,
+      "source_url": "https://science.nasa.gov/sun/",
+      "dataset_id": "NASA Science — Sun"
+    },
+    {
+      "q": "How long is one day (one 'sol') on Mars?",
+      "options": [
+        "About 12 hours",
+        "About 24 hours 37 minutes",
+        "About 48 hours",
+        "About 10 Earth days"
+      ],
+      "answer": 1,
+      "source_url": "https://mars.nasa.gov/",
+      "dataset_id": "NASA Mars Exploration"
+    }
+  ]
+}
