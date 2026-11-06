@@ -16,9 +16,6 @@ export default function Landing() {
         <div className="absolute inset-0 bg-gradient-to-br from-violet-500/10 via-transparent to-cyan-400/10" />
         <div className="absolute -bottom-40 left-1/2 -translate-x-1/2 w-[140%] h-80 rounded-full bg-gradient-to-t from-slate-700 via-slate-800 to-transparent opacity-70 blur-sm" />
         <div className="relative px-6 py-16 md:py-24 text-center">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cyan-400/10 border border-cyan-400/20 text-cyan-400 text-xs font-medium mb-4">
-            <Sparkles className="w-3.5 h-3.5" /> NASA Space Apps Challenge
-          </div>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
             Humanity's Next Home <span className="text-cyan-400">Starts With You</span>
           </h1>
